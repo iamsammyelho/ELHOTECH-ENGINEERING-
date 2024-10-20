@@ -128,7 +128,7 @@ nav {
     top: auto;
     cursor: pointer;
   }
-  .navbar_contents .fa-x {
+  .navbar_contents .fa-xmark {
     display: block;
     font-size: 1.7rem;
     position: absolute;
